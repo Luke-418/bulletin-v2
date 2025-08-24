@@ -1,0 +1,185 @@
+[
+    {
+        "id": "assign_001",
+        "title": "Quadratic Functions Review",
+        "instructions": "Complete problems 1-20 in chapter 5. Show all work and graph the functions.",
+        "class": "Math",
+        "type": "homework",
+        "points": 50,
+        "dueDate": "2024-12-20T23:59:00Z",
+        "topic": "quadratic equations",
+        "studentIds": [
+            "student_001",
+            "student_002"
+        ],
+        "postedOn": "google classroom",
+        "classroomId": "class_001",
+        "createdDate": "2024-12-10T08:00:00Z",
+        "isPublished": true
+    },
+    {
+        "id": "assign_002",
+        "title": "Essay: The American Revolution",
+        "instructions": "Write a 5-paragraph essay analyzing the causes of the American Revolution. Include at least 3 primary sources.",
+        "class": "History",
+        "type": "essay",
+        "points": 100,
+        "dueDate": "2024-12-22T11:59:00Z",
+        "topic": "american revolution causes",
+        "studentIds": [
+            "student_001",
+            "student_003"
+        ],
+        "postedOn": "canvas",
+        "classroomId": "class_002",
+        "createdDate": "2024-12-05T09:30:00Z",
+        "isPublished": true
+    },
+    {
+        "id": "assign_003",
+        "title": "Chemical Equations Quiz",
+        "instructions": "Balance the chemical equations provided. You will have 30 minutes to complete this quiz.",
+        "class": "Chemistry",
+        "type": "quiz",
+        "points": 25,
+        "dueDate": "2024-12-18T14:30:00Z",
+        "topic": "balancing chemical equations",
+        "studentIds": [
+            "student_001",
+            "student_002"
+        ],
+        "postedOn": "blackboard",
+        "classroomId": "class_003",
+        "createdDate": "2024-12-12T10:00:00Z",
+        "isPublished": true
+    },
+    {
+        "id": "assign_004",
+        "title": "Shakespeare Analysis Test",
+        "instructions": "Multiple choice and short answer test covering Hamlet Acts 1-3.",
+        "class": "English",
+        "type": "test",
+        "points": 100,
+        "dueDate": "2024-12-19T13:00:00Z",
+        "topic": "shakespeare hamlet",
+        "studentIds": [
+            "student_001",
+            "student_003"
+        ],
+        "postedOn": "google classroom",
+        "classroomId": "class_004",
+        "createdDate": "2024-12-08T11:15:00Z",
+        "isPublished": true
+    },
+    {
+        "id": "assign_005",
+        "title": "Science Museum Field Trip",
+        "instructions": "Visit the Natural History Museum and complete the worksheet provided. Submit your findings by the due date.",
+        "class": "Biology",
+        "type": "field trip",
+        "points": 75,
+        "dueDate": "2024-12-21T17:00:00Z",
+        "topic": "natural history",
+        "studentIds": [
+            "student_002",
+            "student_003"
+        ],
+        "postedOn": "canvas",
+        "classroomId": "class_004",
+        "createdDate": "2024-12-01T08:45:00Z",
+        "isPublished": true
+    },
+    {
+        "id": "assign_006",
+        "title": "Physics Lab: Velocity and Acceleration",
+        "instructions": "Conduct the pendulum experiment and record data. Calculate velocity and acceleration values. Submit lab report with graphs.",
+        "class": "Physics",
+        "type": "lab",
+        "points": 80,
+        "dueDate": "2024-12-23T15:00:00Z",
+        "topic": "kinematics",
+        "studentIds": [
+            "student_004",
+            "student_005"
+        ],
+        "postedOn": "blackboard",
+        "classroomId": "class_005",
+        "createdDate": "2024-12-11T09:00:00Z",
+        "isPublished": true
+    },
+    {
+        "id": "assign_007",
+        "title": "Spanish Vocabulary Quiz Ch. 3",
+        "instructions": "Quiz covering vocabulary from chapter 3: family members and household items. Include both Spanish to English and English to Spanish translations.",
+        "class": "Spanish",
+        "type": "quiz",
+        "points": 30,
+        "dueDate": "2024-12-19T09:00:00Z",
+        "topic": "family vocabulary",
+        "studentIds": [
+            "student_003",
+            "student_004",
+            "student_006"
+        ],
+        "postedOn": "google classroom",
+        "classroomId": "class_006",
+        "createdDate": "2024-12-13T10:30:00Z",
+        "isPublished": true
+    },
+    {
+        "id": "assign_008",
+        "title": "Art Portfolio: Self-Portrait",
+        "instructions": "Create a self-portrait using any medium of your choice. Include an artist statement explaining your technique and inspiration.",
+        "class": "Art",
+        "type": "project",
+        "points": 90,
+        "dueDate": "2024-12-30T23:59:00Z",
+        "topic": "portraiture",
+        "studentIds": [
+            "student_005",
+            "student_006",
+            "student_007"
+        ],
+        "postedOn": "canvas",
+        "classroomId": "class_007",
+        "createdDate": "2024-12-02T11:00:00Z",
+        "isPublished": true
+    },
+    {
+        "id": "assign_009",
+        "title": "Economics: Supply and Demand Analysis",
+        "instructions": "Analyze a real-world market scenario and create graphs showing supply and demand curves. Write a 2-page analysis of market equilibrium.",
+        "class": "Economics",
+        "type": "homework",
+        "points": 60,
+        "dueDate": "2024-12-21T23:59:00Z",
+        "topic": "supply and demand",
+        "studentIds": [
+            "student_007",
+            "student_008"
+        ],
+        "postedOn": "blackboard",
+        "classroomId": "class_008",
+        "createdDate": "2024-12-09T14:00:00Z",
+        "isPublished": true
+    },
+    {
+        "id": "assign_010",
+        "title": "Computer Science: Python Functions",
+        "instructions": "Complete programming exercises 1-15. Create functions that demonstrate loops, conditionals, and data structures. Submit .py files.",
+        "class": "Computer Science",
+        "type": "homework",
+        "points": 70,
+        "dueDate": "2024-12-24T23:59:00Z",
+        "topic": "python programming",
+        "studentIds": [
+            "student_008",
+            "student_009",
+            "student_010"
+        ],
+        "postedOn": "google classroom",
+        "classroomId": "class_009",
+        "createdDate": "2024-12-14T13:15:00Z",
+        "isPublished": true
+    }
+]

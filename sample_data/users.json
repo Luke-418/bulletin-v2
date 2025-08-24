@@ -1,0 +1,254 @@
+[
+    {
+        "id": "user_001",
+        "username": "msmith",
+        "email": "mark.smith@school.edu",
+        "passwordHash": "$2b$10$abcdefghijklmnopqrstuvwxyz123456789",
+        "role": "teacher",
+        "permissions": [
+            "read_assignments",
+            "create_assignments",
+            "edit_assignments",
+            "grade_assignments",
+            "manage_classroom"
+        ],
+        "classroomIds": [
+            "class_001"
+        ],
+        "firstName": "Mark",
+        "lastName": "Smith",
+        "department": "Mathematics",
+        "isActive": true,
+        "lastLogin": "2024-12-15T08:30:00Z",
+        "createdDate": "2024-08-01T09:00:00Z"
+    },
+    {
+        "id": "user_002",
+        "username": "jdavis",
+        "email": "jennifer.davis@school.edu",
+        "passwordHash": "$2b$10$zyxwvutsrqponmlkjihgfedcba987654321",
+        "role": "teacher",
+        "permissions": [
+            "read_assignments",
+            "create_assignments",
+            "edit_assignments",
+            "grade_assignments",
+            "manage_classroom"
+        ],
+        "classroomIds": [
+            "class_002"
+        ],
+        "firstName": "Jennifer",
+        "lastName": "Davis",
+        "department": "History",
+        "isActive": true,
+        "lastLogin": "2024-12-15T07:45:00Z",
+        "createdDate": "2024-08-01T09:00:00Z"
+    },
+    {
+        "id": "user_003",
+        "username": "rwilson",
+        "email": "robert.wilson@school.edu",
+        "passwordHash": "$2b$10$1234567890abcdefghijklmnopqrstuvwxyz",
+        "role": "teacher",
+        "permissions": [
+            "read_assignments",
+            "create_assignments",
+            "edit_assignments",
+            "grade_assignments",
+            "manage_classroom"
+        ],
+        "classroomIds": [
+            "class_003"
+        ],
+        "firstName": "Robert",
+        "lastName": "Wilson",
+        "department": "Science",
+        "isActive": true,
+        "lastLogin": "2024-12-14T16:20:00Z",
+        "createdDate": "2024-08-01T09:00:00Z"
+    },
+    {
+        "id": "user_004",
+        "username": "sthompson",
+        "email": "sarah.thompson@school.edu",
+        "passwordHash": "$2b$10$987654321zyxwvutsrqponmlkjihgfedcba",
+        "role": "teacher",
+        "permissions": [
+            "read_assignments",
+            "create_assignments",
+            "edit_assignments",
+            "grade_assignments",
+            "manage_classroom"
+        ],
+        "classroomIds": [
+            "class_004"
+        ],
+        "firstName": "Sarah",
+        "lastName": "Thompson",
+        "department": "English",
+        "isActive": true,
+        "lastLogin": "2024-12-15T09:15:00Z",
+        "createdDate": "2024-08-01T09:00:00Z"
+    },
+    {
+        "id": "user_005",
+        "username": "akumar",
+        "email": "anil.kumar@school.edu",
+        "passwordHash": "$2b$10$physicsteacher123456789abcdefghijk",
+        "role": "teacher",
+        "permissions": [
+            "read_assignments",
+            "create_assignments",
+            "edit_assignments",
+            "grade_assignments",
+            "manage_classroom"
+        ],
+        "classroomIds": [
+            "class_005"
+        ],
+        "firstName": "Anil",
+        "lastName": "Kumar",
+        "department": "Science",
+        "isActive": true,
+        "lastLogin": "2024-12-15T10:00:00Z",
+        "createdDate": "2024-08-01T09:00:00Z"
+    },
+    {
+        "id": "user_006",
+        "username": "mlopez",
+        "email": "maria.lopez@school.edu",
+        "passwordHash": "$2b$10$spanishteacher123456789abcdefghijk",
+        "role": "teacher",
+        "permissions": [
+            "read_assignments",
+            "create_assignments",
+            "edit_assignments",
+            "grade_assignments",
+            "manage_classroom"
+        ],
+        "classroomIds": [
+            "class_006"
+        ],
+        "firstName": "Maria",
+        "lastName": "Lopez",
+        "department": "World Languages",
+        "isActive": true,
+        "lastLogin": "2024-12-15T08:15:00Z",
+        "createdDate": "2024-08-01T09:00:00Z"
+    },
+    {
+        "id": "user_007",
+        "username": "bwhite",
+        "email": "beth.white@school.edu",
+        "passwordHash": "$2b$10$artteacher123456789abcdefghijklmno",
+        "role": "teacher",
+        "permissions": [
+            "read_assignments",
+            "create_assignments",
+            "edit_assignments",
+            "grade_assignments",
+            "manage_classroom"
+        ],
+        "classroomIds": [
+            "class_007"
+        ],
+        "firstName": "Beth",
+        "lastName": "White",
+        "department": "Fine Arts",
+        "isActive": true,
+        "lastLogin": "2024-12-14T14:30:00Z",
+        "createdDate": "2024-08-01T09:00:00Z"
+    },
+    {
+        "id": "user_008",
+        "username": "tjohnson",
+        "email": "thomas.johnson@school.edu",
+        "passwordHash": "$2b$10$econteacher123456789abcdefghijklmno",
+        "role": "teacher",
+        "permissions": [
+            "read_assignments",
+            "create_assignments",
+            "edit_assignments",
+            "grade_assignments",
+            "manage_classroom"
+        ],
+        "classroomIds": [
+            "class_008"
+        ],
+        "firstName": "Thomas",
+        "lastName": "Johnson",
+        "department": "Social Studies",
+        "isActive": true,
+        "lastLogin": "2024-12-15T11:20:00Z",
+        "createdDate": "2024-08-01T09:00:00Z"
+    },
+    {
+        "id": "user_009",
+        "username": "lchen",
+        "email": "lisa.chen@school.edu",
+        "passwordHash": "$2b$10$csteacher123456789abcdefghijklmnop",
+        "role": "teacher",
+        "permissions": [
+            "read_assignments",
+            "create_assignments",
+            "edit_assignments",
+            "grade_assignments",
+            "manage_classroom"
+        ],
+        "classroomIds": [
+            "class_009"
+        ],
+        "firstName": "Lisa",
+        "lastName": "Chen",
+        "department": "Technology",
+        "isActive": true,
+        "lastLogin": "2024-12-15T12:45:00Z",
+        "createdDate": "2024-08-01T09:00:00Z"
+    },
+    {
+        "id": "user_010",
+        "username": "dgarcia",
+        "email": "david.garcia@school.edu",
+        "passwordHash": "$2b$10$bioteacher123456789abcdefghijklmnop",
+        "role": "administrator",
+        "permissions": [
+            "read_assignments",
+            "create_assignments",
+            "edit_assignments",
+            "grade_assignments",
+            "manage_classroom"
+        ],
+        "classroomIds": [
+            "class_010"
+        ],
+        "firstName": "David",
+        "lastName": "Garcia",
+        "department": "Science",
+        "isActive": true,
+        "lastLogin": "2024-12-15T09:30:00Z",
+        "createdDate": "2024-08-01T09:00:00Z"
+    },
+    {
+        "id": "user_011",
+        "username": "admin",
+        "email": "admin@school.edu",
+        "passwordHash": "$2b$10$adminpasswordhash1234567890abcdefghij",
+        "role": "administrator",
+        "permissions": [
+            "read_all",
+            "create_all",
+            "edit_all",
+            "delete_all",
+            "manage_users",
+            "manage_system"
+        ],
+        "classroomIds": [],
+        "firstName": "System",
+        "lastName": "Administrator",
+        "department": "IT",
+        "isActive": true,
+        "lastLogin": "2024-12-15T06:00:00Z",
+        "createdDate": "2024-07-01T09:00:00Z"
+    }
+]

@@ -1,0 +1,195 @@
+[
+    {
+        "id": "class_001",
+        "name": "Algebra II - Period 3",
+        "subject": "Math",
+        "platform": "google classroom",
+        "teacherId": "user_001",
+        "studentIds": [
+            "student_001",
+            "student_002"
+        ],
+        "assignmentIds": [
+            "assign_001"
+        ],
+        "classCode": "MATH3A2",
+        "semester": "Fall 2024",
+        "room": "Room 205",
+        "schedule": "MWF 10:00-10:50",
+        "isActive": true
+    },
+    {
+        "id": "class_002",
+        "name": "US History Honors",
+        "subject": "History",
+        "platform": "canvas",
+        "teacherId": "user_002",
+        "studentIds": [
+            "student_001",
+            "student_003"
+        ],
+        "assignmentIds": [
+            "assign_002"
+        ],
+        "classCode": "HIST201",
+        "semester": "Fall 2024",
+        "room": "Room 142",
+        "schedule": "TTh 09:00-10:15",
+        "isActive": true
+    },
+    {
+        "id": "class_003",
+        "name": "Chemistry I",
+        "subject": "Chemistry",
+        "platform": "blackboard",
+        "teacherId": "user_003",
+        "studentIds": [
+            "student_001",
+            "student_002"
+        ],
+        "assignmentIds": [
+            "assign_003"
+        ],
+        "classCode": "CHEM101",
+        "semester": "Fall 2024",
+        "room": "Lab 301",
+        "schedule": "MWF 13:00-14:15",
+        "isActive": true
+    },
+    {
+        "id": "class_004",
+        "name": "English Literature AP",
+        "subject": "English",
+        "platform": "google classroom",
+        "teacherId": "user_004",
+        "studentIds": [
+            "student_001",
+            "student_003"
+        ],
+        "assignmentIds": [
+            "assign_004",
+            "assign_005"
+        ],
+        "classCode": "ENGL401",
+        "semester": "Fall 2024",
+        "room": "Room 118",
+        "schedule": "Daily 08:00-08:50",
+        "isActive": true
+    },
+    {
+        "id": "class_005",
+        "name": "Physics Honors",
+        "subject": "Physics",
+        "platform": "blackboard",
+        "teacherId": "user_005",
+        "studentIds": [
+            "student_004",
+            "student_005"
+        ],
+        "assignmentIds": [
+            "assign_006"
+        ],
+        "classCode": "PHYS301",
+        "semester": "Fall 2024",
+        "room": "Lab 201",
+        "schedule": "MWF 11:00-12:15",
+        "isActive": true
+    },
+    {
+        "id": "class_006",
+        "name": "Spanish II",
+        "subject": "Spanish",
+        "platform": "google classroom",
+        "teacherId": "user_006",
+        "studentIds": [
+            "student_003",
+            "student_004",
+            "student_006"
+        ],
+        "assignmentIds": [
+            "assign_007"
+        ],
+        "classCode": "SPAN201",
+        "semester": "Fall 2024",
+        "room": "Room 156",
+        "schedule": "TTh 10:30-11:45",
+        "isActive": true
+    },
+    {
+        "id": "class_007",
+        "name": "Art Studio I",
+        "subject": "Art",
+        "platform": "canvas",
+        "teacherId": "user_007",
+        "studentIds": [
+            "student_005",
+            "student_006",
+            "student_007"
+        ],
+        "assignmentIds": [
+            "assign_008"
+        ],
+        "classCode": "ART101",
+        "semester": "Fall 2024",
+        "room": "Art Studio A",
+        "schedule": "TTh 13:00-15:00",
+        "isActive": true
+    },
+    {
+        "id": "class_008",
+        "name": "AP Economics",
+        "subject": "Economics",
+        "platform": "blackboard",
+        "teacherId": "user_008",
+        "studentIds": [
+            "student_004",
+            "student_007",
+            "student_008"
+        ],
+        "assignmentIds": [
+            "assign_009"
+        ],
+        "classCode": "ECON401",
+        "semester": "Fall 2024",
+        "room": "Room 238",
+        "schedule": "MWF 14:00-14:50",
+        "isActive": true
+    },
+    {
+        "id": "class_009",
+        "name": "Computer Science Principles",
+        "subject": "Computer Science",
+        "platform": "google classroom",
+        "teacherId": "user_009",
+        "studentIds": [
+            "student_008",
+            "student_009",
+            "student_010"
+        ],
+        "assignmentIds": [
+            "assign_010"
+        ],
+        "classCode": "CS101",
+        "semester": "Fall 2024",
+        "room": "Computer Lab 1",
+        "schedule": "Daily 15:00-15:50",
+        "isActive": true
+    },
+    {
+        "id": "class_010",
+        "name": "Biology I",
+        "subject": "Biology",
+        "platform": "canvas",
+        "teacherId": "user_010",
+        "studentIds": [
+            "student_009",
+            "student_010"
+        ],
+        "assignmentIds": [],
+        "classCode": "BIO101",
+        "semester": "Fall 2024",
+        "room": "Lab 102",
+        "schedule": "MWF 09:00-10:15",
+        "isActive": true
+    }
+]

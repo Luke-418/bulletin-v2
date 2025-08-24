@@ -1,0 +1,189 @@
+[
+    {
+        "id": "student_001",
+        "firstName": "Emma",
+        "lastName": "Johnson",
+        "email": "emma.johnson@school.edu",
+        "grade": 11,
+        "studentId": "2024001",
+        "classroomIds": [
+            "class_001",
+            "class_002",
+            "class_003"
+        ],
+        "assignmentIds": [
+            "assign_001",
+            "assign_002",
+            "assign_003",
+            "assign_004"
+        ],
+        "enrollmentDate": "2024-08-15",
+        "isActive": true
+    },
+    {
+        "id": "student_002",
+        "firstName": "Liam",
+        "lastName": "Chen",
+        "email": "liam.chen@school.edu",
+        "grade": 11,
+        "studentId": "2024002",
+        "classroomIds": [
+            "class_001",
+            "class_003",
+            "class_004"
+        ],
+        "assignmentIds": [
+            "assign_001",
+            "assign_003",
+            "assign_005"
+        ],
+        "enrollmentDate": "2024-08-15",
+        "isActive": true
+    },
+    {
+        "id": "student_003",
+        "firstName": "Sophia",
+        "lastName": "Rodriguez",
+        "email": "sophia.rodriguez@school.edu",
+        "grade": 10,
+        "studentId": "2024003",
+        "classroomIds": [
+            "class_002",
+            "class_004",
+            "class_006"
+        ],
+        "assignmentIds": [
+            "assign_002",
+            "assign_004",
+            "assign_005",
+            "assign_007"
+        ],
+        "enrollmentDate": "2024-08-15",
+        "isActive": true
+    },
+    {
+        "id": "student_004",
+        "firstName": "Jackson",
+        "lastName": "Williams",
+        "email": "jackson.williams@school.edu",
+        "grade": 12,
+        "studentId": "2024004",
+        "classroomIds": [
+            "class_005",
+            "class_006",
+            "class_008"
+        ],
+        "assignmentIds": [
+            "assign_006",
+            "assign_007"
+        ],
+        "enrollmentDate": "2024-08-15",
+        "isActive": true
+    },
+    {
+        "id": "student_005",
+        "firstName": "Ava",
+        "lastName": "Brown",
+        "email": "ava.brown@school.edu",
+        "grade": 9,
+        "studentId": "2024005",
+        "classroomIds": [
+            "class_005",
+            "class_007"
+        ],
+        "assignmentIds": [
+            "assign_006",
+            "assign_008"
+        ],
+        "enrollmentDate": "2024-08-15",
+        "isActive": true
+    },
+    {
+        "id": "student_006",
+        "firstName": "Noah",
+        "lastName": "Davis",
+        "email": "noah.davis@school.edu",
+        "grade": 10,
+        "studentId": "2024006",
+        "classroomIds": [
+            "class_006",
+            "class_007"
+        ],
+        "assignmentIds": [
+            "assign_007",
+            "assign_008"
+        ],
+        "enrollmentDate": "2024-08-15",
+        "isActive": true
+    },
+    {
+        "id": "student_007",
+        "firstName": "Isabella",
+        "lastName": "Miller",
+        "email": "isabella.miller@school.edu",
+        "grade": 12,
+        "studentId": "2024007",
+        "classroomIds": [
+            "class_007",
+            "class_008"
+        ],
+        "assignmentIds": [
+            "assign_008",
+            "assign_009"
+        ],
+        "enrollmentDate": "2024-08-15",
+        "isActive": true
+    },
+    {
+        "id": "student_008",
+        "firstName": "Ethan",
+        "lastName": "Wilson",
+        "email": "ethan.wilson@school.edu",
+        "grade": 11,
+        "studentId": "2024008",
+        "classroomIds": [
+            "class_008",
+            "class_009"
+        ],
+        "assignmentIds": [
+            "assign_009",
+            "assign_010"
+        ],
+        "enrollmentDate": "2024-08-15",
+        "isActive": true
+    },
+    {
+        "id": "student_009",
+        "firstName": "Mia",
+        "lastName": "Garcia",
+        "email": "mia.garcia@school.edu",
+        "grade": 12,
+        "studentId": "2024009",
+        "classroomIds": [
+            "class_009",
+            "class_010"
+        ],
+        "assignmentIds": [
+            "assign_010"
+        ],
+        "enrollmentDate": "2024-08-15",
+        "isActive": true
+    },
+    {
+        "id": "student_010",
+        "firstName": "Oliver",
+        "lastName": "Martinez",
+        "email": "oliver.martinez@school.edu",
+        "grade": 9,
+        "studentId": "2024010",
+        "classroomIds": [
+            "class_009",
+            "class_010"
+        ],
+        "assignmentIds": [
+            "assign_010"
+        ],
+        "enrollmentDate": "2024-08-15",
+        "isActive": true
+    }
+]
